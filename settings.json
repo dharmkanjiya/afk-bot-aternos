@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": Godlxofficial.aternos.me",
+    "ip": "Godlxofficial.aternos.me",
     "port": 47216,
     "version": "1.21.11"
   },
